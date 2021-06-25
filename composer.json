@@ -55,7 +55,7 @@
         "itk-dev/database-bundle": "^1.0",
         "itk-dev/terms-bundle": "dev-master",
         "league/uri": "^5.3",
-        "lexik/jwt-authentication-bundle": "^1.7",
+        "lexik/jwt-authentication-bundle": "^2.10",
         "liip/imagine-bundle": "^1.9",
         "nelmio/cors-bundle": "^1.4",
         "phpdocumentor/reflection-docblock": "^3.0",
